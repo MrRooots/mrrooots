@@ -5,8 +5,12 @@
 I'm pretty good at: 
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+(Some examples: [function minimization](https://github.com/MrRooots/python_func_minimization), [win event log parser](https://github.com/MrRooots/ucsb_evtlog), [email existing checker](https://github.com/MrRooots/SocketEmailValidator))
+
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
+(Some examples: [library app](https://github.com/MrRooots/local_library), [App for RaM Api](https://github.com/MrRooots/rick_and_morty))
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
