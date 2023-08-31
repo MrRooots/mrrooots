@@ -5,7 +5,7 @@
 I'm pretty good at: 
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-(Some examples: [function minimization](https://github.com/MrRooots/python_func_minimization), [win event log parser](https://github.com/MrRooots/ucsb_evtlog), [email existing checker](https://github.com/MrRooots/SocketEmailValidator), [VRPTW](https://github.com/MrRooots/vrp_diploma))
+(Some examples: [function minimization](https://github.com/MrRooots/python_func_minimization), [email existing checker](https://github.com/MrRooots/SocketEmailValidator), [VRPTW](https://github.com/MrRooots/vrp_diploma))
 
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 
