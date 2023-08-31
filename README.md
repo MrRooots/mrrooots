@@ -5,7 +5,7 @@
 I'm pretty good at: 
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-(Some examples: [function minimization](https://github.com/MrRooots/python_func_minimization), [win event log parser](https://github.com/MrRooots/ucsb_evtlog), [email existing checker](https://github.com/MrRooots/SocketEmailValidator))
+(Some examples: [function minimization](https://github.com/MrRooots/python_func_minimization), [win event log parser](https://github.com/MrRooots/ucsb_evtlog), [email existing checker](https://github.com/MrRooots/SocketEmailValidator), [VRPTW](Nope. You get the same amount of cash, although if you just sell it to Willy, it doesn't count as though you've 'collected' that item. Just sell it all in the shipping box.))
 
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 
